@@ -1,10 +1,10 @@
 # Welcome todo app
 
-Server link: [Project server link](https://todo-apps-servers.herokuapp.com).
-https://todo-apps-servers.herokuapp.com
+Server link: [Project server link](https://figma-blog-06-26-22-server.herokuapp.com/).
+https://figma-blog-06-26-22-server.herokuapp.com/
 
-Client link: [Project Client link](https://todo-app-b3466.web.app).
-https://todo-app-b3466.web.app
+Client link: [Project Client link](https://figma-blog-06-26-22.web.app/).
+https://figma-blog-06-26-22.web.app/
 
 # Project Features:
 
